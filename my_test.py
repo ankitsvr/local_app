@@ -1,5 +1,6 @@
-import my_debugger
+import socket
+import signal
 
-debugger=my_debugger.debugger()
-
-debugger.load("C:\\WINDOWS\\system32\\calc.exe")
+def serversocket(config):
+    server=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
+    server.setsockopt()

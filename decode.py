@@ -56,7 +56,7 @@ if os.name=="nt":
     socket_protocol=socket.IPPROTO_IP
 
 else:
-    socket_protocol=socket.IPPROTO_ICMP
+    socket_protocol=socket.IPPROTO_UDP
 
 sniffer=socket.socket(socket.AF_INET,socket.SOCK_RAW,socket_protocol)
 

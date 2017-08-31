@@ -74,7 +74,7 @@ if os.name=="nt":
     socket_protocol=socket.IPPROTO_IP
 
 else:
-    socket_protocol=socket.IPPROTO_ICMP
+    socket_protocol=socket.IPPROTO_IP
 
 
 scan_thread=threading.Thread(target=udp_sender,args=(subnet,message))
@@ -97,7 +97,7 @@ try:
 
         ip_header=IP(raw_buffer[0:20])
 
-       # print "protocol: %s -%s  %s " %(ip_header.protocol,ip_header.src_address,ip_header.dst_address)
+        print "protocol: %s -%s  %s " %(ip_header.protocol,ip_header.src_address,ip_header.dst_address)
         if ip_header.protocol=="ICMP":
 
             offset=ip_header.ihl * 4

@@ -45,13 +45,13 @@ def proxy_handler(client_socket,remote_host,remote_port,receive_first):
         local_buffer=receive_from(client_socket)
 
         if len(local_buffer):
-            print "[==>] Recevied from localhost %d" % len(local_buffer)
+            print " Recevied from localhost %d" % len(local_buffer)
             hexdump(local_buffer)
 
             local_buffer=request_handler(local_buffer)
 
             remote_socket.send(local_buffer)
-            print "[==>]send to remote"
+            print "send to remote"
 
 
         remote_buffer=receive_from(remote_socket)
@@ -59,13 +59,13 @@ def proxy_handler(client_socket,remote_host,remote_port,receive_first):
 
         if len(remote_buffer):
 
-            print "[<==]Recevied %d  byte from remote." % len(remote_buffer)
+            print "Recevied %d  byte from remote." % len(remote_buffer)
             hexdump(remote_buffer)
             remote_buffer=response_handler(remote_buffer)
 
             client_socket.send(remote_buffer)
 
-            print "[<==] sent  to localhost ."
+            print " sent  to localhost ."
 
 
         if not len(local_buffer) or not len(remote_buffer):
@@ -118,8 +118,8 @@ def server_loop(local_host,local_port,remote_host,remote_port,receive_first):
     try:
         server.bind((local_host,local_port))
     except:
-        print "[!!] Failed to listen on %s:%d" % (local_host,local_port)
-        print "[!!] Check for other listening sockets or correct permissions."
+        print " Failed to listen on %s:%d" % (local_host,local_port)
+        print " Check for other listening sockets or correct permissions."
         sys.exit(0)
     print "[*] Listening on %s:%d" % (local_host,local_port)
     server.listen(5)
