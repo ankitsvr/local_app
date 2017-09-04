@@ -1,0 +1,113 @@
+Script started on Sat 02 Sep 2017 02:03:26 AM IST
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# ^C
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# exit
+
+Script done on Sat 02 Sep 2017 02:03:30 AM IST
+Script started on Sat 02 Sep 2017 02:05:45 AM IST
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# sdsd
+bash: sdsd: command not found
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# sd
+bash: sd: command not found
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# sd
+bash: sd: command not found
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# sd^C
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# exit
+
+Script done on Sat 02 Sep 2017 02:06:22 AM IST
+Script started on Sat 02 Sep 2017 02:06:23 AM IST
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# exit
+
+Script done on Sat 02 Sep 2017 02:06:24 AM IST
+Script started on Sat 02 Sep 2017 02:06:24 AM IST
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# exit
+
+Script done on Sat 02 Sep 2017 02:06:27 AM IST
+Script started on Sat 02 Sep 2017 02:06:28 AM IST
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# exit
+
+Script done on Sat 02 Sep 2017 02:06:32 AM IST
+Script started on Sat 02 Sep 2017 02:06:32 AM IST
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# exit
+
+Script done on Sat 02 Sep 2017 02:06:33 AM IST
+Script started on Sat 02 Sep 2017 02:06:33 AM IST
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# sdsd[K[K[K[Kls[K[Kls
+arper.pcap          decode.py              my_test.py       py.pyc
+arpps.py            hello.txt              new.py           test.py
+bh_sshcmd.py        ip.txt                 new.pyc          test_rsa.key
+bh_sshrcmd.py       jai.txt                oldserver.py     udp_dis.py
+bh_sshserver.py     july.txt               [0m[01;34mparamiko[0m         utils.py
+class.py            mail_sniffer.py        proxy2.py        utils.pyc
+ColorizePython.py   main_server.py         proxy.py         [01;32mversion1.py[0m
+ColorizePython.pyc  my_debugger_define.py  proxy_server.py
+decode1.py          my_debugger.py         py.py
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# d j c  d[K[K[K[K[K[K[K[K^C
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# exit
+
+Script done on Sat 02 Sep 2017 02:07:06 AM IST
+Script started on Sat 02 Sep 2017 02:07:12 AM IST
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# exit
+
+Script done on Sat 02 Sep 2017 02:07:16 AM IST
+Script started on Sat 02 Sep 2017 02:07:16 AM IST
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# exit
+
+Script done on Sat 02 Sep 2017 02:07:17 AM IST
+Script started on Sat 02 Sep 2017 02:07:17 AM IST
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# exit
+
+Script done on Sat 02 Sep 2017 02:07:18 AM IST
+Script started on Sat 02 Sep 2017 02:07:18 AM IST
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# exit
+
+Script done on Sat 02 Sep 2017 02:07:18 AM IST
+Script started on Sat 02 Sep 2017 02:07:21 AM IST
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# exit
+
+Script done on Sat 02 Sep 2017 02:07:21 AM IST
+Script started on Sat 02 Sep 2017 02:07:21 AM IST
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# exit
+
+Script done on Sat 02 Sep 2017 02:07:22 AM IST
+Script started on Sat 02 Sep 2017 02:07:22 AM IST
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# ^C
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# ^C
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# ^C
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# exit
+
+Script done on Sat 02 Sep 2017 02:07:22 AM IST
+Script started on Sat 02 Sep 2017 02:07:23 AM IST
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# ^C
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# ^C
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# exit
+
+Script done on Sat 02 Sep 2017 02:07:24 AM IST
+Script started on Sat 02 Sep 2017 02:07:24 AM IST
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# ^C
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# exit
+
+Script done on Sat 02 Sep 2017 02:07:24 AM IST
+Script started on Sat 02 Sep 2017 02:07:24 AM IST
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# ^C
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# ^C
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# ^C
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# ^C
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# ^C
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# exit
+
+Script done on Sat 02 Sep 2017 02:07:26 AM IST
+Script started on Sat 02 Sep 2017 02:07:26 AM IST
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# ^C
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# exit
+
+Script done on Sat 02 Sep 2017 02:07:26 AM IST
+Script started on Sat 02 Sep 2017 02:07:27 AM IST
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# ^C
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# exit
+
+Script done on Sat 02 Sep 2017 02:07:27 AM IST
+Script started on Sat 02 Sep 2017 02:07:28 AM IST
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# ^C
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# exit
+
+Script done on Sat 02 Sep 2017 02:07:33 AM IST

@@ -1,0 +1,25 @@
+PING www.google.com (172.217.27.100) 56(84) bytes of data.
+64 bytes from sin11s04-in-f100.1e100.net (172.217.27.100): icmp_seq=1 ttl=52 time=88.0 ms
+64 bytes from sin11s04-in-f100.1e100.net (172.217.27.100): icmp_seq=4 ttl=52 time=157 ms
+64 bytes from sin11s04-in-f100.1e100.net (172.217.27.100): icmp_seq=6 ttl=52 time=176 ms
+64 bytes from sin11s04-in-f100.1e100.net (172.217.27.100): icmp_seq=9 ttl=52 time=211 ms
+64 bytes from sin11s04-in-f100.1e100.net (172.217.27.100): icmp_seq=10 ttl=52 time=88.1 ms
+64 bytes from sin11s04-in-f100.1e100.net (172.217.27.100): icmp_seq=11 ttl=52 time=88.3 ms
+64 bytes from sin11s04-in-f100.1e100.net (172.217.27.100): icmp_seq=13 ttl=52 time=88.0 ms
+64 bytes from sin11s04-in-f100.1e100.net (172.217.27.100): icmp_seq=14 ttl=52 time=87.9 ms
+64 bytes from sin11s04-in-f100.1e100.net (172.217.27.100): icmp_seq=15 ttl=52 time=88.0 ms
+64 bytes from sin11s04-in-f100.1e100.net (172.217.27.100): icmp_seq=16 ttl=52 time=87.9 ms
+64 bytes from sin11s04-in-f100.1e100.net (172.217.27.100): icmp_seq=17 ttl=52 time=87.9 ms
+64 bytes from sin11s04-in-f100.1e100.net (172.217.27.100): icmp_seq=18 ttl=52 time=88.7 ms
+64 bytes from sin11s04-in-f100.1e100.net (172.217.27.100): icmp_seq=19 ttl=52 time=88.4 ms
+64 bytes from sin11s04-in-f100.1e100.net (172.217.27.100): icmp_seq=20 ttl=52 time=89.2 ms
+64 bytes from sin11s04-in-f100.1e100.net (172.217.27.100): icmp_seq=21 ttl=52 time=88.2 ms
+64 bytes from sin11s04-in-f100.1e100.net (172.217.27.100): icmp_seq=22 ttl=52 time=88.1 ms
+64 bytes from sin11s04-in-f100.1e100.net (172.217.27.100): icmp_seq=23 ttl=52 time=87.6 ms
+64 bytes from sin11s04-in-f100.1e100.net (172.217.27.100): icmp_seq=24 ttl=52 time=88.1 ms
+64 bytes from sin11s04-in-f100.1e100.net (172.217.27.100): icmp_seq=25 ttl=52 time=87.9 ms
+64 bytes from sin11s04-in-f100.1e100.net (172.217.27.100): icmp_seq=26 ttl=52 time=87.7 ms
+
+--- www.google.com ping statistics ---
+26 packets transmitted, 20 received, 23% packet loss, time 25134ms
+rtt min/avg/max/mdev = 87.693/102.199/211.109/34.493 ms

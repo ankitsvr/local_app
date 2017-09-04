@@ -6,6 +6,8 @@ import fnmatch
 import utils
 from time import gmtime, strftime, localtime
 import logging
+import os
+
 
 
 config =  {
@@ -37,6 +39,7 @@ class Server:
     def listenForClient(self):
         """ Wait for clients to connect """
         while True:
+
             (clientSocket, client_address) = self.serverSocket.accept()   # Establish the connection
             d = threading.Thread(name=self._getClientName(client_address), target=self.proxy_thread, args=(clientSocket, client_address))
             d.setDaemon(True)

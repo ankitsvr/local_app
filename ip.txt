@@ -1,0 +1,4 @@
+Script started on Fri 01 Sep 2017 11:58:06 PM IST
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# exit
+
+Script done on Fri 01 Sep 2017 11:58:11 PM IST

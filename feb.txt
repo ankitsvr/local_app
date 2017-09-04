@@ -1,0 +1,29 @@
+Script started on Sat 02 Sep 2017 01:41:55 PM IST
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# PING www.google.com (172.217.27.100) 56(844) bytes of data.
+bash: syntax error near unexpected token `('
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# 64 bytes from sin11s04-in-f4.1e100.net (1772.217.27.100): icmp_seq=1 ttl=52 time=84.5 ms
+bash: syntax error near unexpected token `('
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# 64 bytes from sin11s04-in-f4.1e100.net (1772.217.27.100): icmp_seq=3 ttl=52 time=86.5 ms
+bash: syntax error near unexpected token `('
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# 64 bytes from sin11s04-in-f4.1e100.net (1772.217.27.100): icmp_seq=5 ttl=52 time=84.3 ms
+bash: syntax error near unexpected token `('
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# 64 bytes from sin11s04-in-f4.1e100.net (1772.217.27.100): icmp_seq=6 ttl=52 time=83.7 ms
+bash: syntax error near unexpected token `('
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# 64 bytes from sin11s04-in-f4.1e100.net (1772.217.27.100): icmp_seq=8 ttl=52 time=84.6 ms
+bash: syntax error near unexpected token `('
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# 64 bytes from sin11s04-in-f4.1e100.net (1772.217.27.100): icmp_seq=13 ttl=52 time=85.7 ms
+bash: syntax error near unexpected token `('
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# 64 bytes from sin11s04-in-f4.1e100.net (1772.217.27.100): icmp_seq=14 ttl=52 time=87.6 ms
+bash: syntax error near unexpected token `('
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# 64 bytes from sin11s04-in-f4.1e100.net (1772.217.27.100): icmp_seq=16 ttl=52 time=84.1 ms
+bash: syntax error near unexpected token `('
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# 
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# --- www.google.com ping statistics ---
+bash: ---: command not found
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# 23 packets transmitted, 8 received, 65% paacket loss, time 22289ms
+bash: 23: command not found
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# rtt min/avg/max/mdev = 83.759/85.157/87.6447/1.313 ms
+bash: rtt: command not found
+]0;root@hell: ~/PycharmProjects/local_app[01;31mroot@hell[00m:[01;34m~/PycharmProjects/local_app[00m# exit
+
+Script done on Sat 02 Sep 2017 01:42:18 PM IST
